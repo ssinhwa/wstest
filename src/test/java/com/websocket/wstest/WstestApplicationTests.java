@@ -1,10 +1,10 @@
-package hello.hellospring;
+package com.websocket.wstest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloSpringApplicationTests {
+class WstestApplicationTests {
 
 	@Test
 	void contextLoads() {

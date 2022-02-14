@@ -1,13 +1,13 @@
-package hello.hellospring;
+package com.websocket.wstest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloSpringApplication {
+public class WstestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloSpringApplication.class, args);
+		SpringApplication.run(WstestApplication.class, args);
 	}
 
 }
